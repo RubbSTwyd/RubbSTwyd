@@ -1,7 +1,7 @@
 <h1 style=align="center">Hi 👋, I'm RubbST</h1>
 <h3 align="center">A new and learning passionate frontend developer from New York</h3>
 
-
+<hr>
 - 🔭 I’m currently working on **My portfolio website**
 
 - 🌱 I’m currently learning **Html, css, and javascript**
