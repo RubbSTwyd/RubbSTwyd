@@ -1,4 +1,4 @@
-<h1> align="center">Hi 👋, I'm RubbST</h1>
+<h1> style=align="center">Hi 👋, I'm RubbST</h1>
 <h3 align="center">A new and learning passionate frontend developer from New York</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubbst&label=Profile%20views&color=0e75b6&style=flat" alt="rubbst" /> </p>
