@@ -3,7 +3,7 @@
 
 <hr>
 
-- 🔭 I’m currently working on **My portfolio website*
+- 🔭 I’m currently working on **My portfolio website**
 
 - 🌱 I’m currently learning **Html, css, and javascript**
 
